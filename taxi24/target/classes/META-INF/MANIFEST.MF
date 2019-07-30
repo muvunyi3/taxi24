@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: taxi24
+Implementation-Version: 1.0-SNAPSHOT
+Built-By: david.muvunyi
+Implementation-Vendor-Id: org.taxi
+Build-Jdk: 1.8.0
+Implementation-URL: http://maven.apache.org
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
